@@ -1,0 +1,23 @@
+websites:
+  - https://www.bbc.com/
+recipes:
+  - cookie
+  - cake
+  - brownie
+ingredients:
+  - egg
+  - flour
+  - sugar
+unit_system: # metric or imperial
+  - imperial
+units: # meant to be an exhaustive list of ways the above ingredients would be measured
+  - c
+  - cups
+  - oz
+  - ounces
+  - g
+  - grams
+  - tsp
+  - teaspoon
+  - tbsp
+  - tablespoon
